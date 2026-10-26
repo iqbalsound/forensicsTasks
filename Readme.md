@@ -1,3 +1,7 @@
+<details>
+<summary><b>View Directory Structure</b></summary>
+
+```text
 README.rst
 Readme.md
 heic
@@ -128,3 +132,4 @@ tiff
     └── Tless0.tiff
 
 13 directories, 110 files
+```
